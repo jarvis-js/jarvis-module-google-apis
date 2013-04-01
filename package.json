@@ -1,0 +1,24 @@
+{
+  "author": {
+    "name": "Paul Dixon",
+    "email": "paul.dixon@mintbridge.co.uk"
+  },
+  "name": "jarvis-module-google-apis",
+  "description": "Adds commands for interacting with Google APIs",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dobot/jarvis-module-google-apis.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "engines": {
+    "node": ">=0.8.x"
+  },
+  "dependencies": {
+    "googleapis": ">=0.2.X",
+    "underscore": "~1.4.4"
+  },
+  "readmeFilename": "README.md"
+}
